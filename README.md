@@ -13,7 +13,7 @@ El directorio `/guia1/ejemplos` contiene ejemplos proporcionados por el docente.
 
 ### IDE necesario
 
-Para abrir este proyecto necesitas del IDE JetBrains Community Edition [IDEA Jetbrains](https://www.jetbrains.com/idea/). Además, el lenguaje Kotlin ya viene preinstalado en este IDE.
+Para abrir este proyecto necesitas de [IDEA JetBrains Community Edition ](https://www.jetbrains.com/idea/). Además, el lenguaje Kotlin ya viene preinstalado en este IDE.
 
 ### Documentación
 
