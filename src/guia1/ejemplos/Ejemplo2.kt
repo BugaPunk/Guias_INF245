@@ -1,18 +1,16 @@
 package guia1.ejemplos
 fun main() {
-    val a: Int
-    val b: Int
     val c: Int
 
     print("Ingrese primer valor ")
-    a = readln().toInt()
+    val a: Int = readln().toInt()
     print("Ingrese otro valor ")
-    b = readln().toInt()
+    val b: Int = readln().toInt()
 
-    if (a > b) {
-       c = a - b
+    c = if (a > b) {
+        a - b
     } else {
-        c = b - a
+        b - a
     }
-    print("El valor de la expresion es -> $c")
+    print("El valor de la expresión es -> $c")
 }
