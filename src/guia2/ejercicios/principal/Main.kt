@@ -19,7 +19,6 @@ fun main() {
 
         println("Cantidad de pasajeros: $pasajeros")
         println("Ingreso del viaje: $ingreso Bs")
-        println()
     }
 
     mostrarTotales(totalPasajeros, totalIngreso)
