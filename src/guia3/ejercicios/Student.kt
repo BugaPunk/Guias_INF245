@@ -1,19 +1,6 @@
 package guia3.ejercicios
 
-class Student {
-    var aPaterno: String = ""
-    var aMaterno: String = ""
-    var nombre: String = ""
-    var nombreM: String = ""
-    var nota: Int = 0
-
-    constructor(aPaterno: String, aMaterno: String, nombre: String, nombreM: String, nota: Int) {
-        this.aPaterno = aPaterno
-        this.aMaterno = aMaterno
-        this.nombre = nombre
-        this.nombreM = nombreM
-        this.nota = nota
-    }
+class Student(var aPaterno: String, var aMaterno: String, var nombre: String, var nombreM: String, var nota: Int) {
 
     fun imprimir(objStd: Student) {
         println("\nApellido Paterno: ${objStd.aPaterno}" +

@@ -1,7 +1,7 @@
 package guia1.ejemplos
 fun main() {
 
-    print("Ingrese un nro comprendido entre 1 y 4 para las estaciones del año")
+    println("Ingrese un nro comprendido entre 1 y 4 para las estaciones del año")
     val estacion: Int = readln().toInt()
 
     when (estacion) {
