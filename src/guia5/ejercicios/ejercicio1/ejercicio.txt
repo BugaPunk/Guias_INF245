@@ -1,0 +1,14 @@
+En las clases:
+Organizacion hay el nroDocentes, nroEtsudiantes, Estudiantes[50], Docentes[50]
+EntidadEducacion tiene Nombre, añoFundacion, tipo(privado publico) Heredaran:
+Normal de Tipo(Tecnico o Humanistico)
+Instituto con carreras[30]
+colegio tiene turno
+Los arrays trabajalo con listas o arraylist
+// "Técnico" o "Humanístico"
+
+
+a) Instanciar 1 Normal y 1 instituto y 1 colegio
+b) Determinar las instituciones en las que esta inscrito el estudiante x
+c) Determinar si el docente x imparte clases en las 3 instituciones
+d) Modificar el año de fundacion de un x instituto
